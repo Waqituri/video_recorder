@@ -1,9 +1,5 @@
 # video_recorder App
 
-## Screen Recording video
-
-https://github.com/Waqituri/video_recorder/assets/33023289/222a1c76-c365-4b01-a7de-c21f544ab6d7
-
 ## Description
 The Video_Recorder App is a is a simple Flutter application that allows users to open their device's camera, record videos, and review the recorded videos. Users can also delete videos if they wish.
 
